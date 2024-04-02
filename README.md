@@ -1,4 +1,4 @@
-# Golf Performance Simulator
+# Golf Tournament Simulator
 
 ## Project Overview
 
