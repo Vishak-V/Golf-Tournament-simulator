@@ -23,4 +23,4 @@ The Golf Performance Simulator is a Python-based tool designed to simulate and p
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/Golf-Performance-Simulator.git
+   git clone https://github.com/<your-username>/Golf-Tournament-Simulator.git
